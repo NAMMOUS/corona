@@ -1,0 +1,5 @@
+demjson==2.2.4
+Flask==1.0.3
+jsonschema==2.6.0
+
+requests==2.21.0
